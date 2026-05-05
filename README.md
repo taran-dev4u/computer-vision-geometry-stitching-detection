@@ -8,33 +8,41 @@ This repository combines three closely related computer vision projects that sha
 
 The combined scope presents the work as a practical computer vision lab covering calibration, background stitching, and face detection.
 
-## Problem
+## Project Objective
 
 Vision systems need accurate geometry, reliable image alignment, and measurable detection output. This project keeps those pieces together so the complete workflow can be reviewed from calibration through detection.
 
-## Scope
+## Completed Scope
 
 - Rotation matrices and camera calibration
 - Feature matching and homography estimation
 - Background stitching with moving foreground objects
 - Face detection workflow with validation and prediction output
 
-## Approach
+## Workflow
 
 - Built the geometry foundation first with coordinate transformations
 - Used feature matching to align overlapping image scenes
 - Structured stitching around background preservation
-- Prepared detection output for visual and metric-based review
+- Produced detection output for visual and metric-based review
 
-## Existing Work
+## Deliverables
 
 - Computer vision project material for rotation matrices and camera calibration
 - Computer vision project material for background stitching
 - Computer vision project material for face detection
 
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/masters/cvip_project1_instructions.pdf` - project artifact
+- `project-files/masters/cvip_Project2_instrcutions.pdf` - project artifact
+- `project-files/masters/cvip_Project_3_material.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
+
 ## Contribution
 
-Prepared the project structure, implementation plan, and documentation around the computer vision workflows.
+Documented the project structure, implementation workflow, and computer vision deliverables.
 
 ## Skills
 
@@ -44,15 +52,6 @@ Prepared the project structure, implementation plan, and documentation around th
 - Homography
 - Feature matching
 - Face detection
-
-## Next Update
-
-- Add implementation files and sample images
-- Add before-and-after stitching outputs
-- Add detection examples with bounding boxes
-- Include a short note on calibration and transform conventions
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
